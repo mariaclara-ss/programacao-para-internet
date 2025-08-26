@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(128, 95, 159);
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+div{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    background-color: rgb(193, 148, 236);
+    margin-right: 250px;
+    margin-left: 250px;
+    bottom: center;
+}
